@@ -6,7 +6,6 @@ public class Congelado extends Producto{
     private Double temp;
 
     public Congelado (){
-
     }
 
     public Congelado(Double temp, LocalDate fCaducidad, Integer numLote){
